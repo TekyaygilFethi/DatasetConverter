@@ -3,7 +3,7 @@
 
 This project allows users to convert datasets between csv, parquet and xlsx formats.
 
-# WEBSITE
+# Website
 
 You can access the website through here: https://datasetconverter.streamlit.app/
 
@@ -28,7 +28,7 @@ DEFAULT_TO_FILE_EXTENSION="parquet"
 - `DEFAULT_FROM_FILE_EXTENSION` is the extension type that will be selected when the program is started or auto-selected when the same type has chosen for input and output extensions
 - `DEFAULT_TO_FILE_EXTENSION` is the extension type that will be selected when the program is started or auto-selected when the same type has chosen for input and output extensions
 
-# SUPPORT
+# Support
 
 You can always open a Pull Request or an issue when you see the opportunity of improving the project. Every help and advice will be welcomed.
 
